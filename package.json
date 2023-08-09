@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "echarts": "^5.4.3",
+    "mpvue-echarts": "^0.3.2",
+    "three": "^0.155.0"
+  }
+}

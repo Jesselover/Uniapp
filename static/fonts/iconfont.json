@@ -1,0 +1,114 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "36773410",
+      "name": "风险管控",
+      "font_class": "fengxianguankong",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "36773411",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "36773412",
+      "name": "工作管理",
+      "font_class": "gongzuoguanli",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "36773413",
+      "name": "减去",
+      "font_class": "jianqu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "36773418",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "36773422",
+      "name": "隐患管控",
+      "font_class": "yinhuanguankong",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "36773423",
+      "name": "安全管理",
+      "font_class": "anquanguanli",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "36773424",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "36773425",
+      "name": "学习管理",
+      "font_class": "xuexiguanli",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "36773426",
+      "name": "关闭2",
+      "font_class": "guanbi2",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "36773427",
+      "name": "系统管理",
+      "font_class": "xitongguanli",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "36773428",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "36773429",
+      "name": "账号",
+      "font_class": "zhanghao",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "36773943",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "36773944",
+      "name": "日期",
+      "font_class": "riqi",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    }
+  ]
+}
