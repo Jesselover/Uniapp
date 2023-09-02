@@ -11,13 +11,14 @@
 		</scroll-view>
 		<view>
 			<h1 class="title">{{title}}</h1>
-			<navigator url="/pages/404/404" class="text-area" >404</navigator>
+			<navigator url="/pages/404/404" class="text-area">404</navigator>
 			<navigator url="/pages/list/list" open-type="reLaunch" class="text-area">list/relaunch</navigator>
 			<navigator url="/pages/list/list" class="text-area">list</navigator>
 			<navigator url="/pages/login/login" class="text-area">登录</navigator>
 			<navigator url="/pages/register/register" class="text-area">注册</navigator>
 			<!-- ? echart的引入 -->
 			<navigator url="/pages/Echarts/Echarts" class="text-area">echarts</navigator>
+			<a ref="btnRef" download>下载图片</a>
 		</view>
 
 
@@ -25,6 +26,9 @@
 </template>
 
 <script>
+	import {ref} from 'vue'
+	let btnRef = ref()
+	let fileUrl=''
 	export default {
 		data() {
 			return {
@@ -52,7 +56,11 @@
 		methods: {
 
 		},
-		onLoad() {}
+		onLoad() {
+			btnRef.value.addEventListener('click',()=>{
+				console.log((btnRef.value))
+			})
+		}
 	}
 </script>
 
@@ -102,5 +110,4 @@
 			}
 		}
 	}
-
 </style>
